@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.userInfo{
+  display: flex;
+  justify-content: center;
+  justify-items: flex-start;
+  align-items: center;
+}
+
+.username-wrap{
+  margin-left: 25px;
+  color: blueviolet;
+  cursor: pointer;
+
+}
+.user-modal{
+  background-color: rgba(0, 0, 2, 0.4);
+  width: 290px;
+  margin-left: 39%;
+}
+.email-sec{
+  display: flex;
+  justify-content: center;
+  justify-items: flex-start;
+  align-items: center;
+}
